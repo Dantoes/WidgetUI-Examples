@@ -1,0 +1,4 @@
+[submodule "Assets/WidgetUI"]
+	path = Assets/WidgetUI
+	url = https://github.com/knowbuddy/WidgetUI
+	branch = master
